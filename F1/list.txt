@@ -1,0 +1,9 @@
+/Users/talialerner/Desktop
+.
+..
+.DS_Store
+.localized
+SCW_tutorial
+data-shell
+learn
+list.txt
